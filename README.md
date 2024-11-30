@@ -1,6 +1,10 @@
 # Feature-Engineering
 **Started as a fun/educational endeavor. Ended up learning a lot.**
 
+## Dataset
+
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/scolianni/mnistasjpg).
+
 ## Overview
 
 I began this project with the intention of **learning through implementation**. My goal was to build everything from scratch, avoiding libraries whenever possible, and hardcoding the models. In the process, I found myself, shall I say, "down the rabbit hole."
@@ -74,7 +78,3 @@ This project gave me hands-on experience with:
 ## Conclusion
 
 This project has been an enriching experience, strengthening my knowledge of machine learning and feature engineering. I now feel confident tackling more complex challenges, such as object detection or image segmentation. **The future is lookin goood!**
-
-## Dataset
-
-The dataset used for this project can be found [here](https://www.kaggle.com/datasets/scolianni/mnistasjpg).
