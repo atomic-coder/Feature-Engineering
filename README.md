@@ -44,7 +44,7 @@ Therefore, I decided to use neural networks that output a probability vector for
 
 **Key observations**: 
 - For this use case, I found that 2 layers with 64 and 32 nodes was sufficient to yield impressive accurcacy without any trade-off in efficiency for the image passed as a 1D array.
-- But as I increased the complexity of the neural network, the training time grew exponentially for the image passed as a 1D array compared to the engineered features. Moreover, the model trained with engineered features had an notable increase in it's accuracy as well.  
+- But as I increased the complexity of the neural network, the training time grew exponentially for the image passed as a 1D array compared to the engineered features. Moreover, the model trained with engineered features had a notable increase in it's accuracy as well.  
 
 
 ### Model Evaluation and Improvement
@@ -52,7 +52,7 @@ Therefore, I decided to use neural networks that output a probability vector for
 - Throughout the process, I evaluated the model’s performance using metrics like accuracy and loss, and I fine-tuned parameters such as the learning rate and number of epochs to improve results.
 - I also found out that a batch-size of 128 over a number of 50 epochs performed best on a neural network with 2 hidden layers consisting of 256 and 64 nodes.
 - An increase in batch size led to a lower validation loss indicating higher confidence in predictions and lower training time per epoch, but slower convergence.
-- In the end, for the 7x7 grid approach and the 1D array approach, there were no differences in the validation losses and accuracies. But, the training time for the 1D array approach was approximately 4x slower than the 7x7 grid approach.
+- In the end, for the 7x7 grid approach and the 1D array approach, there were no differences in the validation losses and accuracies. But, the training time for the 1D array approach was approximately 4x longer than the 7x7 grid approach.
 
 ## Learning Outcome
 
