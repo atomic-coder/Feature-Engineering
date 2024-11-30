@@ -4,6 +4,7 @@
 ## Dataset
 
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/scolianni/mnistasjpg).
+
 Test images have been included in the repository for the reader's convenience.
 
 ## Overview
