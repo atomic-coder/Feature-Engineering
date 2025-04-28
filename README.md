@@ -1,6 +1,8 @@
 # Feature-Engineering
 **Started as a fun/educational endeavor. Ended up learning a lot.**
 
+**Note**: All the heatmaps, graphs, and predictions are in the notebooks. :)
+
 ## Dataset
 
 The dataset used for this project is the Keras mnist dataset.
