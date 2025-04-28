@@ -42,7 +42,7 @@ Therefore, I decided to use neural networks that output a probability vector for
 
 **Key observations**: 
 - For this use case, I found that 2 layers with 64 and 32 nodes was sufficient to yield impressive accurcacy without any trade-off in efficiency for the image passed as a 1D array.
-- But as I increased the complexity of the neural network, the training time grew exponentially for the image passed as a 1D array compared to the engineered features. Moreover, the model trained with engineered features had a notable increase in it's accuracy with an increase in the complexity of the neural networrk. 
+- But as I increased the complexity of the neural network, the training time grew exponentially for the image passed as a 1D array compared to the engineered features. Moreover, the model trained with engineered features had a notable increase in it's accuracy with an increase in the complexity of the neural network. 
 
 
 ### Model Evaluation and Improvement
