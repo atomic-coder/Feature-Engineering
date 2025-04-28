@@ -1,7 +1,7 @@
 # Feature-Engineering
 **Started as a fun/educational endeavor. Ended up learning a lot.**
 
-**Note**: All the heatmaps, graphs, and predictions are in the notebooks. :)
+**Note**: All the heatmaps, graphs, and predictions are in the python notebooks. :)
 
 ## Dataset
 
